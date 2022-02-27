@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Full and true account of the late revolution in Savoy, and of the motives and occasion of the Duke of Savoy's declaration of war against France, and for restoring all the Vaudois to their liberties and ancient privileges, who are joined with his forces against the French as also of the several defeats given to the French forces, by the Vaudois and Savoyards / in a letter to a person of quality, from Geneva, June 9, 1690.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84968</idno>
+            <idno type="STC">Wing F2307C</idno>
+            <idno type="STC">ESTC R222985</idno>
+            <idno type="EEBO-CITATION">36272989</idno>
+            <idno type="OCLC">ocm 36272989</idno>
+            <idno type="VID">150063</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84968)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150063)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2228:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Full and true account of the late revolution in Savoy, and of the motives and occasion of the Duke of Savoy's declaration of war against France, and for restoring all the Vaudois to their liberties and ancient privileges, who are joined with his forces against the French as also of the several defeats given to the French forces, by the Vaudois and Savoyards / in a letter to a person of quality, from Geneva, June 9, 1690.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Licensed, June 16, 1690, J. Fraser."</note>
+                  <note>Reproduction of original in the Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Waldenses --  Savoy (France and Italy)</term>
+               <term>Grand Alliance, War of the, 1689-1697.</term>
+               <term>Savoy (France and Italy) --  History.</term>
+               <term>France --  History, Military --  1643-1715.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:150063:1" rendition="simple:additions"/>
+            <head>A Full and True ACCOUNT Of the LATE REVOLUTION in <hi>SAVOY,</hi> and of the Motives and Occaſion of the Duke of <hi>SAVOY</hi>'s Declara<g ref="char:EOLhyphen"/>tion of WAR againſt <hi>FRANCE,</hi> and for Reſtoring all the <hi>VAUDOIS</hi> to their Liberties and Ancient Pri<g ref="char:EOLhyphen"/>vileges, who are joined with His Forces againſt the <hi>French.</hi>
+            </head>
+            <head type="sub">As alſo of the ſeveral Defeats given to the <hi>French</hi> Forces, by the <hi>Vaudois</hi> and <hi>Savoyards.</hi>
+            </head>
+            <head type="sub">
+               <hi>In a Letter to a Perſon of Quality, from</hi> Geneva, June 9. 1690.</head>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>LICENSED,</p>
+                  <closer>
+                     <dateline>
+                        <date>June 16. 1690.</date>
+                     </dateline> 
+                     <signed>J. FRASER.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>YOU know, that ſome time ago the <hi>French</hi> advanced to<g ref="char:EOLhyphen"/>wards <hi>Piemont,</hi> under the Command of Monſieur <hi>de Catinat;</hi> their Number was reported to be 14000 Men, but the truth is, they were not above Ten Thouſand. The pretence of that Expedition was to make War againſt the <hi>Vaudois;</hi> they attack'd them the <hi>1ſt</hi> and <hi>2d</hi> of <hi>May:</hi> The <hi>Vaudois</hi> defended themſelves ſtout<g ref="char:EOLhyphen"/>ly, and the <hi>French</hi> loſt many of their Men. After that <hi>Catinat</hi> made as if he had been willing to fall upon the <hi>Mi<g ref="char:EOLhyphen"/>laneze;</hi> but he came back on a ſudden, and poſted himſelf in the Neighbour<g ref="char:EOLhyphen"/>hood of <hi>Turin.</hi> The firſt thing he de<g ref="char:EOLhyphen"/>manded from the Duke of <hi>Savoy,</hi> was, That he ſhould give him 3000 Men of his Troops to ballance the Succours he had given the Emperour, which was, of 100000 pounds <hi>sterl.</hi> The Duke anſwered, he had bought ſome Fiefs of the Emperour, and that it was re<g ref="char:EOLhyphen"/>ally a Bargain, and not any Succours he had ſent him, when he gave him the ſaid One Hundred Thouſand Pounds. <hi>Catinat</hi> not being contented with this Anſwer, gave the Duke but twice Twenty Four Hours to take his laſt Reſolution. The Duke finding himſelf ſo cloſely ſtreightned, made as if he had a Mind to enter into a Treaty with <hi>France;</hi> and for that pur<g ref="char:EOLhyphen"/>poſe ſent Couriers to <hi>Paris,</hi> and pro<g ref="char:EOLhyphen"/>miſed <hi>Catinat,</hi> in the mean time, he would give him the Troops the <hi>French</hi> King was deſirous of having. <hi>Catinat</hi> ſeem'd as if he had been ſatisfied with theſe Promiſes, and went back towards the <hi>Milaneze,</hi> ſeized upon <hi>Carignan-Bridge,</hi> upon the River <hi>Po;</hi> and ha<g ref="char:EOLhyphen"/>ving left there 1000 Dragoons in Gar<g ref="char:EOLhyphen"/>riſon, return'd again towards <hi>Turin</hi> and declared to the Duke, That h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> would ſee the Execution of his Pro<g ref="char:EOLunhyphen"/>miſe, and that the King his Maſte<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> would have, for the ſecurity of his Neutrality, the Citadel of <hi>Turin</hi> and <hi>Verue</hi> to be delivered up to him. The Duke, under pretence of Treaty, de<g ref="char:EOLhyphen"/>manded ſome time to know the Reſo<g ref="char:EOLhyphen"/>lutions of the <hi>French</hi> King. <hi>Catinat</hi>'s Nephew went immediately to the <hi>French</hi> Court. During this Negotiation and delay, the Duke got near a Months time, which he diligently imploy'd in gathering ſecretly the <hi>Militia</hi> of the Country, in Fortifying and Furniſhing with Ammunitions the Citadel of <hi>Tu<g ref="char:EOLhyphen"/>rin,</hi> and the other Frontier Places, cau<g ref="char:EOLhyphen"/>ſing a good Guard to be kept in the Night-time. He did likewiſe employ ſome of that time in diſparching En<g ref="char:EOLhyphen"/>voys to all the Neighbouring Princes, and eſpecially to the Diet of the <hi>Suiſ<g ref="char:EOLhyphen"/>ſers,</hi> where his Ambaſſador, and that of <hi>Spain</hi> ſpoke with ſo good ſucceſs a<g ref="char:EOLhyphen"/>gainſt the Cheats and Violences of the <hi>French</hi> Court, that all the Aſſembly was moved ſo far to compaſſion, as to ſhed tears: And the Diet reſolved to ac<g ref="char:EOLhyphen"/>quaint the D. of <hi>Savoy,</hi> That the intenti<g ref="char:EOLhyphen"/>on of the <hi>Cantons</hi> was, That he ſhould order <hi>Catinat</hi> to draw back his Troops from <hi>Piemont,</hi> which if he ſhould refuſe to do, the <hi>Suiſſers</hi> would not fail to give the Duke all the Aſſiſtance they were
+<pb facs="tcp:150063:2"/> able to do. The Courier, which Mon<g ref="char:EOLhyphen"/>ſieur <hi>Amelot,</hi> the <hi>French</hi> Ambaſſador in <hi>Suiſſerland,</hi> had ſent to Monſieur <hi>Catinat,</hi> came to him by ſome hours ſooner than he that was ſent to the Duke from the Diet; and hearing the Reſolution of the <hi>Cantons,</hi> he ſent to Compliment the Duke, praying him to ſend him his Chancellour, and telling him; that he hoped ſome Means ſhould be found out to accommodate all Affairs. The Duke, who knew nothing yet from <hi>Suiſſerland,</hi> of what had been determined there in his Favour, ſent him his Chancellour, with a deſign to gain more time; but the Courier of <hi>Suiſſerland</hi> being arriv'd a little while after; the Duke ſent after his Chancellor to call him back, and having Aſſembled the Council of Eſtate, and that of War, it was Reſolved they ſhould have no<g ref="char:EOLhyphen"/>thing more to manage with <hi>Catinat,</hi> but order him to depart the Dukes Dominion within 24 Hours, which if he would not do, they would Attack him and Charge him immediately.</p>
+            <p>You muſt know that when <hi>Catinat</hi> received that unwelcom News, his Army was weakned, by a Detachment he had ſent againſt the <hi>Vaudois,</hi> to keep the Valleys of <hi>Pragelas;</hi> beſides it was leſ<g ref="char:EOLhyphen"/>ſened by 2 Regiments of <hi>Suiſſers,</hi> who refuſed to fight againſt the <hi>Savoyards;</hi> Monſieur <hi>Catinat</hi> to ſecure them, ſent them to <hi>Cazal,</hi> to have from thence 2 other Regiments, but the <hi>Suiſſers</hi> in their March meeting with all the <hi>Sa<g ref="char:EOLhyphen"/>voy</hi> Militia in Arms, joined with them, and renounced the <hi>French</hi> Service. On the other ſide, the Detachment which was ſent againſt the <hi>Vaudois</hi> had but a bad ſucceſs: the truth is, the <hi>Vaudois</hi> were forced to retire upon a high Mountain, after they had made a great ſlaughter of the <hi>French,</hi> many Carts of wounded Perſons were car<g ref="char:EOLhyphen"/>ryed to <hi>Turin,</hi> where they arrived before the Rupture. The <hi>Vaudois</hi> hearing the Dukes Intentions, they offered themſelves to him to go and ſerve in his Army againſt the <hi>French.</hi>
+            </p>
+            <p>After the Duke had taken and de<g ref="char:EOLhyphen"/>clared in Council his Reſolution of breaking with <hi>France,</hi> he came out upon the Piazza, and made a fine Speech to the People, which ſhewed ſo great an Averſion againſt the <hi>French,</hi> that they offered to employ their Lives and Fortunes for the Ser<g ref="char:EOLhyphen"/>vice of His Royal Highneſs; the Prieſts themſelves offered to give the Plate of their Churches, ſaying, They could Officiate in Wooden Cups. There came Ten thouſand Men from <hi>Mondovi,</hi> and from the <hi>Marquiſat</hi> of <hi>Seve;</hi> they demanded leave to Charge the <hi>French,</hi> and there was ſuch a thronging to take Arms all over <hi>Savoy,</hi> that they were not able to give them all Powder and Ammunition. They ſet a Guard up<g ref="char:EOLhyphen"/>on Monſieur <hi>Rebenac</hi> Ambaſſador of <hi>France;</hi> When the Duke had the good News from <hi>Suiſſerland,</hi> he had at the ſame time ſome likewiſe from the <hi>Italian</hi> Princes, who encoura<g ref="char:EOLhyphen"/>ged him very much in the Reſolution he has taken againſt <hi>France.</hi>
+            </p>
+            <p>The Republick of <hi>Venice</hi> offered him 20000. Pounds Sterling a Month. After this the Duke ſent Couriers to acquaint all the Princes with his Rup<g ref="char:EOLhyphen"/>ture with <hi>France,</hi> and cauſed to be Publiſhed, all over his Dominions, a Proclamation in behalf of the <hi>Vau<g ref="char:EOLhyphen"/>dois,</hi> which gave them leave to come into their Country again, he cauſed the ſame Proclamation to be ſent into <hi>Suiſſerland,</hi> and other Parts, to Solli<g ref="char:EOLhyphen"/>cit the <hi>Vaudois</hi> to return, aſſuring them, that all the Violences and Cru<g ref="char:EOLhyphen"/>elties that were practiſed againſt them did not come from him, but from the <hi>French,</hi> who were the Au<g ref="char:EOLhyphen"/>thors and Executors of them. Acts of Hoſtility are already begun, the <hi>Vaudois</hi> are come down from their Mountains, and have cut off a Party of 100 <hi>French.</hi> They ſay Monſieur <hi>Catinat</hi> has loſt 900 Men, which have been killed by the Country Peo<g ref="char:EOLhyphen"/>ple. The Merchants of <hi>Lions</hi> have at <hi>Turin</hi> Three or four hundred thouſand Pounds Sterling worth of Goods, which they have left there to ſave themſelves.</p>
+            <p>Troops advance from the <hi>Milaneze,</hi> and there are already 3000 <hi>Spainards</hi> at <hi>Aſt.</hi> Some Forces are drawing from <hi>Germany</hi> into the <hi>Milaneze,</hi> and they expect in <hi>Suiſſerland</hi> with great impatience the return of King <hi>William</hi>'s Courier, who if he comes back with a good Sum of Money, without queſtion in little time we ſhall ſee an entire Revolution and change of Affairs there, from what they were ſome Months ago.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed for</hi> Richard Baldwin <hi>in the</hi> Old Bailey. 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
